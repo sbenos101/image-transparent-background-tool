@@ -4,7 +4,7 @@ Node.js is required to run the application. The following command prompts need t
 
 npm init -y / npm install express multer sharp / npm start
 
-Key Features of the Image Compressor / Resizer (v1) are listed below:
+Key Features of the Transparent Background Tool (v1) are listed below:
 
 • Removes white or near-white backgrounds by analysing each pixel and making them fully transparent
 • Converts images to PNG format while preserving the original dimensions (no resizing)
